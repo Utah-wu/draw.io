@@ -192,7 +192,7 @@
         <mxCell id="Q_7TU4cCTCKEAVuczLgY-101" value="可复用" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="407" y="432.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q_7TU4cCTCKEAVuczLgY-6" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" parent="1" vertex="1">
+        <mxCell id="Q_7TU4cCTCKEAVuczLgY-6" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="305" y="255" width="330" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Q_7TU4cCTCKEAVuczLgY-93" value="价值导向" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
@@ -207,7 +207,7 @@
         <mxCell id="Q_7TU4cCTCKEAVuczLgY-96" value="可获得" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="407" y="285" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q_7TU4cCTCKEAVuczLgY-107" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" parent="1" vertex="1">
+        <mxCell id="Q_7TU4cCTCKEAVuczLgY-107" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="310" y="587.03" width="330" height="94" as="geometry" />
         </mxCell>
         <mxCell id="Q_7TU4cCTCKEAVuczLgY-108" value="生态建设" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
